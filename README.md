@@ -1,4 +1,4 @@
-# 📊 Ecommerce Analytics Dashboard
+# Ecommerce Analytics Dashboard
 
 A comprehensive analytics dashboard for e-commerce businesses built with **Dash**, **DuckDB**, and **Python**.
 
